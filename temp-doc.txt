@@ -1,0 +1,4 @@
+It copies all files starting with temp- from the parent directory (.., which is your my-first-project folder) into the current working directory (., which is greends-fads-first-project).
+Because we downloaded the project using git clone from GitHub. A cloned repository automatically comes with the hidden .git folder and remote connection fully initialized.
+Yes, we need to stage the new files using git add and then record them using git commit.
+Run these commands in your terminal:
